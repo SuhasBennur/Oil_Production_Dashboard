@@ -1,0 +1,7 @@
+.card { border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; }
+.row { display: flex; gap: 12px; flex-wrap: wrap; }
+.btn { background: #2563eb; color: white; padding: 8px 12px; border-radius: 6px; border: none; cursor: pointer; }
+.btn.secondary { background: #e5e7eb; color: #111827; }
+.input { padding: 8px; border: 1px solid #e5e7eb; border-radius: 6px; }
+.table { width: 100%; border-collapse: collapse; }
+.table th, .table td { border-bottom: 1px solid #e5e7eb; padding: 8px; text-align: left; }
